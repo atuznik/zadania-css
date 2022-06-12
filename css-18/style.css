@@ -1,0 +1,17 @@
+body{
+    background-color: #faebd6;
+}
+
+h1  {
+    color: #ff0000;
+    font-size: 48px;
+}
+
+.braz {
+    color: #a42423;
+    font-size: 33px;
+}
+.granat {
+    color: #00008f;
+    font-size: 33px;
+}
