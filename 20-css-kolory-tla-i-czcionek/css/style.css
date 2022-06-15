@@ -1,0 +1,33 @@
+body    {
+    background-color: cadetblue;
+}
+h1{
+    background-color: blueviolet;
+}
+.paragraf1  {
+    background-color: gray;
+}
+h2{
+    background-color: palegoldenrod;
+}
+.paragraf2  {
+    background-color: salmon;
+}
+ol{
+    background-color: lightgreen;
+}
+.li1    {
+    color: brown;
+}
+.li2    {
+    color: darkgreen;
+}
+.li3    {
+    color: hotpink;
+}
+.li4    {
+    color: purple;
+}
+.li5    {
+    color: yellow;
+}
